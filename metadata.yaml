@@ -1,0 +1,27 @@
+_repo: La-prima-donna_73587
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Giorgi, Ferdinando Di
+    gutenberg_agent_id: '57132'
+    url: http://www.gutenberg.org/2009/agents/57132
+description: ''
+gutenberg_issued: '2024-05-09'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '73587'
+language: it
+pgterms:marc905: 20230521092407digiorgi
+pgterms:marc906: '1895'
+pgterms:marc907: IT
+production_note: Barbara Magni and the Online Distributed Proofreading Team at https://www.pgdp.net
+  (This file was produced from images generously made available by Biblioteca Nazionale
+  Braidense - Milano)
+publication_note: '  $aMilano :$bTreves, $c1895.'
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- GITenberg
+title: La prima donna
+url: http://www.gutenberg.org/ebooks/73587

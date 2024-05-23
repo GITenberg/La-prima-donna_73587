@@ -1,11 +1,16 @@
 _repo: La-prima-donna_73587
 _version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 73587-h/images/cover.jpg
 creator:
   author:
     agent_name: Giorgi, Ferdinando Di
     gutenberg_agent_id: '57132'
     url: http://www.gutenberg.org/2009/agents/57132
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/73587#La-prima-donna
 gutenberg_issued: '2024-05-09'
 gutenberg_type: Text
 identifiers:
